@@ -1,0 +1,10 @@
+{
+  "homepage": "http://mc.stu.red/",
+  "1.2": {
+    "1.0": "代码方块的最新版本"
+  },
+  "promos": {
+    "1.2-latest": "1.0",
+    "1.2-recommended": "0.1"
+  }
+}
